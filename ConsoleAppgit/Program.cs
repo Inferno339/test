@@ -18,7 +18,7 @@ class Program
         Console.WriteLine($"Точка 2: ({x2}, {y2})");
         Console.WriteLine($"Расстояние между точками: {distance}");
 
-        // Ожидание нажатия клавиши для выхода
+        // Ожидание нажатия клавиши
         Console.ReadKey();
     }
 }
