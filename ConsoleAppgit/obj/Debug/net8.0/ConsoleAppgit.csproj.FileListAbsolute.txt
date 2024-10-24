@@ -1,0 +1,14 @@
+C:\portfolio\C#\ConsoleAppgit\ConsoleAppgit\obj\Debug\net8.0\ConsoleAppgit.GeneratedMSBuildEditorConfig.editorconfig
+C:\portfolio\C#\ConsoleAppgit\ConsoleAppgit\obj\Debug\net8.0\ConsoleAppgit.AssemblyInfoInputs.cache
+C:\portfolio\C#\ConsoleAppgit\ConsoleAppgit\obj\Debug\net8.0\ConsoleAppgit.AssemblyInfo.cs
+C:\portfolio\C#\ConsoleAppgit\ConsoleAppgit\obj\Debug\net8.0\ConsoleAppgit.csproj.CoreCompileInputs.cache
+C:\portfolio\C#\ConsoleAppgit\ConsoleAppgit\bin\Debug\net8.0\ConsoleAppgit.exe
+C:\portfolio\C#\ConsoleAppgit\ConsoleAppgit\bin\Debug\net8.0\ConsoleAppgit.deps.json
+C:\portfolio\C#\ConsoleAppgit\ConsoleAppgit\bin\Debug\net8.0\ConsoleAppgit.runtimeconfig.json
+C:\portfolio\C#\ConsoleAppgit\ConsoleAppgit\bin\Debug\net8.0\ConsoleAppgit.dll
+C:\portfolio\C#\ConsoleAppgit\ConsoleAppgit\bin\Debug\net8.0\ConsoleAppgit.pdb
+C:\portfolio\C#\ConsoleAppgit\ConsoleAppgit\obj\Debug\net8.0\ConsoleAppgit.dll
+C:\portfolio\C#\ConsoleAppgit\ConsoleAppgit\obj\Debug\net8.0\refint\ConsoleAppgit.dll
+C:\portfolio\C#\ConsoleAppgit\ConsoleAppgit\obj\Debug\net8.0\ConsoleAppgit.pdb
+C:\portfolio\C#\ConsoleAppgit\ConsoleAppgit\obj\Debug\net8.0\ConsoleAppgit.genruntimeconfig.cache
+C:\portfolio\C#\ConsoleAppgit\ConsoleAppgit\obj\Debug\net8.0\ref\ConsoleAppgit.dll
